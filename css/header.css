@@ -1,0 +1,8 @@
+.Header {
+    background-color: var(--background-color-primary);
+    height: 5rem;
+}
+
+.Header__title {
+    font-size: 2rem;
+}
